@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff0f32;
+  background: #f07e47;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2446,13 +2446,6 @@ body {
   background-attachment: fixed;
   background-position: 50% 50%;
   background-size: cover;
-}
-.main-inner {
-  margin-top: 60px;
-  padding: 60px 60px 60px 60px;
-  background: #fff;
-opacity
-  min-height: 500px;
 }
 .site-meta {
   background: url("https://images.pexels.com/photos/3876329/pexels-photo-3876329.jpeg?cs=srgb&dl=pexels-tomas-anunziata-3876329.jpg&fm=jpg");
